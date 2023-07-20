@@ -21,7 +21,7 @@ $ python pip_installer.py
 Enter the number of threads: 4
 Time taken: 12.348 seconds
 Press Enter to exit...
-
+```
 ## Note
 The script uses the pip install command for each package, so make sure you have pip installed and configured correctly in your Python environment.
 css
