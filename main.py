@@ -32,7 +32,7 @@ def threadTask(Modules):
         system(f"pip install --user {i}")
 
 
-def dividing(modules: list, NumberOfThreads=10):
+def dividing(modules: list, NumberOfThreads=8):
     ModulesPerThread = int(len(modules) / NumberOfThreads)
     ModulesPerThreads = []
     for i in range(NumberOfThreads):
