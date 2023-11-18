@@ -25,7 +25,7 @@ Pillow
 reportlab
 fitz
 tqdm
-	@@ -89,30 +88,13 @@ pywin32
+pywin32
 pyperclip
 pywhatkit
 pyjokes
